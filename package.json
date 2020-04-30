@@ -28,7 +28,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "find-process": "^1.4.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "ng2-dropdown-treeview": "^2.0.1",
     "path": "^0.12.7",
     "pg": "^7.11.0",
